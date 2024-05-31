@@ -1,1 +1,3 @@
-# boulders_data_science
+# Forecasting member activity in Boulders (Aarhus City) using NeuralProphet
+
+##

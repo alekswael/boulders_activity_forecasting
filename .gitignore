@@ -1,5 +1,7 @@
 #### DON'T INCLUDE DATA ####
 data/
+lightning_logs/
+src/lightning_logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

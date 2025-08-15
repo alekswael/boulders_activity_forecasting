@@ -1,8 +1,8 @@
-# Forecasting member activity in Boulders (Aarhus City) using NeuralProphet
+# Forecasting member activity in a climbing gym using NeuralProphet
 
-This repo contains the code for forecasting member activity in a popular climbing gym in Aarhus, Boulders (Aarhus City). The pipeline uses a configured *NeuralProphet* model and two baseline models for forecasting. The pipeline consists of data pre-processing, time-series cross-validation of the models and forecasting the final week activity.
+This repo contains the code for forecasting member activity in a popular climbing gym in Aarhus (Boulders). The pipeline uses a configured *NeuralProphet* model and two baseline models for forecasting. The pipeline consists of data pre-processing, time-series cross-validation of the models and forecasting the final week activity.
 
-Exam project for the course *Data Science, Prediction and Forecasting* as part of the Cognitive Science MSc program.
+Exam project for the course *Data Science, Prediction and Forecasting* as part of the Cognitive Science MSc program at Aarhus University.
 
 
 ## Repo structure
